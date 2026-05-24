@@ -1,0 +1,6 @@
+{
+  "name": "İlaç Takip",
+  "description": "78 yaşındaki kullanıcılar için optimize edilmiş, sesli uyarıları olan ilaç takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
